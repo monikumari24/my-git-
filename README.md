@@ -1,2 +1,3 @@
 # my-git-
-this is my my first repository
+this is my git first repository
+i am realy entrested to work on git
